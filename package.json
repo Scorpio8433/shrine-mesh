@@ -1,0 +1,38 @@
+{
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^2.1.0",
+    "@nomicfoundation/hardhat-toolbox": "^6.1.0",
+    "glob": "^9.3.5"
+  },
+  "name": "hamiltonpulsesanctum",
+  "version": "1.0.0",
+  "description": "This project showcases a Hardhat 3 Beta project using `mocha` for tests and the `ethers` library for Ethereum interactions.",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {
+    "chai-as-promised": "^7.1.2",
+    "check-error": "^1.0.3",
+    "deep-eql": "^4.1.4",
+    "dotenv": "^17.2.1",
+    "get-func-name": "^2.0.2",
+    "ordinal": "^1.0.3",
+    "type-detect": "^4.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Scorpio8433/HamiltonPulseSanctum.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Scorpio8433/HamiltonPulseSanctum/issues"
+  },
+  "homepage": "https://github.com/Scorpio8433/HamiltonPulseSanctum#readme",
+  "type": "module"
+}
