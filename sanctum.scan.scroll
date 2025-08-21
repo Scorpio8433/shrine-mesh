@@ -1,0 +1,151 @@
+.
+├── HamiltonPulse
+│   ├── echo
+│   ├── garden
+│   ├── index.html
+│   ├── pulse
+│   ├── tribute
+│   └── vault
+│       ├── credentials
+│       │   └── keys.scroll
+│       ├── logs
+│       │   ├── access.log
+│       │   └── deployments.scroll
+│       └── protocol
+│           └── integrity.scroll
+├── HamiltonPulseSanctum
+│   ├── .gitignore
+│   ├── README.md
+│   ├── artifacts
+│   │   ├── artifacts.d.ts
+│   │   ├── build-info
+│   │   │   ├── solc-0_8_28-df1454c73260e583fc402c3c8256ea08827d75e1.json
+│   │   │   └── solc-0_8_28-df1454c73260e583fc402c3c8256ea08827d75e1.output.json
+│   │   └── contracts
+│   │       ├── Counter.sol
+│   │       │   ├── Counter.json
+│   │       │   └── artifacts.d.ts
+│   │       └── VaultSteward.sol
+│   │           ├── VaultSteward.json
+│   │           └── artifacts.d.ts
+│   ├── aurexShrine.revenue.protocol.md
+│   ├── aurexShrineMesh
+│   │   ├── LICENSE
+│   │   ├── README.md
+│   │   ├── aurexShrine.revenue.protocol.md
+│   │   ├── aurexToken.protocol.md
+│   │   ├── oxygenIndex.protocol.md
+│   │   ├── queenLedger.report.aug2025.md
+│   │   ├── queenbettina-scrolls
+│   │   │   ├── contracts
+│   │   │   │   └── CL1Shrine.sol
+│   │   │   └── docs
+│   │   │       └── index.html
+│   │   ├── sanctum.structure.scroll
+│   │   └── sshKey.binding.protocol.md
+│   ├── aurexToken.protocol.md
+│   ├── cache
+│   │   └── compile-cache.json
+│   ├── contracts
+│   │   ├── Counter.sol
+│   │   ├── Counter.t.sol
+│   │   ├── SanctumRegistry.sol
+│   │   └── VaultSteward.sol
+│   ├── deployments
+│   │   ├── deployments.scroll
+│   │   └── sanctumRegistry.scroll
+│   ├── hardhat.config.ts
+│   ├── ignition
+│   │   └── modules
+│   │       └── Counter.ts
+│   ├── jwt-publicKey.pem.gpg
+│   ├── oxygenIndex.protocol.md
+│   ├── package-lock.json
+│   ├── package.json
+│   ├── queenLedger.report.aug2025.md
+│   ├── sanctum
+│   │   ├── .env
+│   │   ├── archive
+│   │   │   └── sanctumRegistry.execution.md
+│   │   ├── echoes
+│   │   │   └── shrineEcho.channel.md
+│   │   ├── lineage
+│   │   │   └── queenLedgerIndex.md
+│   │   └── registries
+│   │       ├── stewardRegistry.md
+│   │       └── wallets.md
+│   ├── sanctumRegistry.deploy.md
+│   ├── scripts
+│   │   ├── deploy.ts
+│   │   ├── deploySanctumRegistry.ts
+│   │   ├── deployVaultSteward.ts
+│   │   ├── generateWallets.ts
+│   │   └── send-op-tx.ts
+│   ├── sshKey.binding.protocol.md
+│   ├── sshKey.rebind.protocol.md
+│   ├── test
+│   │   └── Counter.ts
+│   ├── tsconfig.json
+│   └── types
+│       └── ethers-contracts
+│           ├── Counter.ts
+│           ├── VaultSteward.ts
+│           ├── common.ts
+│           ├── factories
+│           │   ├── Counter__factory.ts
+│           │   ├── VaultSteward__factory.ts
+│           │   └── index.ts
+│           ├── hardhat.d.ts
+│           └── index.ts
+├── QueenBettina
+│   └── DomainBindings
+│       └── bindDomains.ts
+├── RegistryEchoes
+│   ├── Allowlists
+│   │   ├── contractAddresses.json
+│   │   ├── methods.json
+│   │   └── origins.json
+│   ├── CreditLimits
+│   │   └── limits.json
+│   └── EmotionalTags
+│       └── emotionalTags.json
+├── SaltSovereignSanctum
+│   └── WalletBindings
+│       └── saltSovereignWallet.json
+├── SanctumRegistry
+│   └── Contracts
+│       └── SanctumRegistry.sol
+├── SecurityKeys
+│   └── JWT
+│       └── publicKey.pem
+├── Votes
+│   └── BindingPathScrolls
+│       └── QueenVote.txt
+├── contracts
+│   └── HamiltonPulse
+│       ├── hardhat.config.ts
+│       ├── scripts
+│       ├── test
+│       └── ~
+│           └── ShrineMesh
+│               └── contracts
+│                   └── HamiltonPulse
+│                       ├── .gitignore
+│                       ├── README.md
+│                       ├── contracts
+│                       │   ├── Counter.sol
+│                       │   └── Counter.t.sol
+│                       ├── hardhat.config.ts
+│                       ├── ignition
+│                       │   └── modules
+│                       │       └── Counter.ts
+│                       ├── package-lock.json
+│                       ├── package.json
+│                       ├── scripts
+│                       │   └── send-op-tx.ts
+│                       ├── test
+│                       │   └── Counter.ts
+│                       └── tsconfig.json
+└── sanctum.scan.scroll
+
+62 directories, 87 files
